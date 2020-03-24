@@ -69,12 +69,12 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
   )
-  (model ${KIPRJMOD}/Footprint/RiserBoard_Mid.step
+  (model ${KIPRJMOD}/RiserBoard_Mid.step
     (offset (xyz 0 0 5.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model ${KIPRJMOD}/Footprint/RiserBoard_Top.step
+  (model ${KIPRJMOD}/RiserBoard_Top.step
     (offset (xyz 0 0 13))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
