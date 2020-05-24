@@ -16,7 +16,7 @@ As this is intended as an input, the channels are grounded through a 10K resisto
 If this is undesired, R1 should not be populated.
 
 ## Status
-Currently waiting on first prototype.
+Currently waiting on prototype.
 
 *Design is **untested**!*
 
@@ -34,7 +34,7 @@ Symbol:
 
 ## Specifications
 
-Audio Jack: Switchcraft 35RASMT4BHNTRX
+Audio Jack: PJ-313D-6A ([lcsc.com](https://lcsc.com/product-detail/Audio-Video-Connectors_Korean-Hroparts-Elec-PJ-313D-6A_C95463.html))
 
 Mounting Screw: M3
 
@@ -44,7 +44,7 @@ Standard 2.54mm PinHeaders
 
 **RiserBoard_Symbol:**
 
-The EESCHEEMA footprint
+The EESCHEEMA Symbol
 
 **RiserBoard_Footprint:**
 
