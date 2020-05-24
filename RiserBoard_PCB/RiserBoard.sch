@@ -24,15 +24,15 @@ T_S
 Text Label 2700 4200 0    50   ~ 0
 T_R
 Text Label 2700 4300 0    50   ~ 0
-T_L
+T_T
 Text Label 3500 4100 0    50   ~ 0
 T_S
 Text Label 3500 4200 0    50   ~ 0
 T_R
 Text Label 3500 4300 0    50   ~ 0
-T_L
+T_T
 Text Label 7500 4300 2    50   ~ 0
-B_L
+B_T
 Text Label 7500 4100 2    50   ~ 0
 B_S
 Wire Wire Line
@@ -42,7 +42,7 @@ Wire Wire Line
 Wire Wire Line
 	7200 4300 7500 4300
 Text Label 6650 4300 2    50   ~ 0
-B_L
+B_T
 Text Label 6650 4200 2    50   ~ 0
 B_R
 Text Label 6650 4100 2    50   ~ 0
