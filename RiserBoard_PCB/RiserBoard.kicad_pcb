@@ -12,8 +12,8 @@
   (page A4)
   (title_block
     (title "3.5mm Jack Riser Board")
-    (date 2020-03-24)
-    (rev v0.0)
+    (date 2020-05-24)
+    (rev v0.1)
     (company "Philipp Schilk")
     (comment 1 https://github.com/TheSchilk)
   )
@@ -68,10 +68,9 @@
     (pad_to_mask_clearance 0.051)
     (solder_mask_min_width 0.25)
     (aux_axis_origin 157.48 97.155)
-    (grid_origin 157.48 97.155)
     (visible_elements 7FFFFFFF)
     (pcbplotparams
-      (layerselection 0x010fc_7fffffff)
+      (layerselection 0x010f8_7fffffff)
       (usegerberextensions false)
       (usegerberattributes false)
       (usegerberadvancedattributes false)

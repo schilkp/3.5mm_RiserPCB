@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "3.5mm Audio Riser Board"
-Date "2020-03-24"
-Rev "v0.0"
+Date "2020-05-24"
+Rev "v0.1"
 Comp "Philipp Schilk"
 Comment1 "https://github.com/TheSchilk/"
 Comment2 ""
